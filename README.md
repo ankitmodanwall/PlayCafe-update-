@@ -9,7 +9,7 @@ Welcome to the **[PlayCafe]** website repository! This project is part of **Girl
     <img src="https://github.com/user-attachments/assets/33f1ecfc-6a94-48ed-b79c-4ee0e37d8a77" width="600px" height="250px">
 </div>
 
-<p align="center">
+<p align="center" >
     <a href="https://github.com/RamakrushnaBiswal/PlayCafe"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
     <a href="https://github.com/mdazfar2/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
     <a href="https://github.com/RamakrushnaBiswal/PlayCafe/blob/main/LICENSE"><img src="https://img.shields.io/badge/MIT-Licence-blue.svg?v=103"></a>
@@ -175,12 +175,12 @@ We love contributions! 💙 Whether you're a participant in **GSSoC** or an open
 ## 🎯 Open Source Programs
 This project is part of **GirlScript Summer of Code 2024** (GSSoC) Extended, an initiative to help aspiring developers get involved in the open-source community.
 
-<div align="center">
+<div align="center ">
   <img src="https://github.com/apu52/METAVERSE/assets/114172928/e79eb6de-81b1-4ffb-b6ed-f018bb977e88" alt="GSSoC 2024 Extd" width="80%">
 </div>
 
 <div align="center">
-  <img src="https://github.com/neeru24/Connect_icons/blob/main/hacktober.png" alt="Hacktober fest 2024" width="80%">
+  <img src="https://github.com/neeru24/Connect_icons/blob/main/hacktober.png" alt="Hacktober fest 2024" width="80%" padding ="auto">
 </div>
 
 <br>
